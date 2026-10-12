@@ -12,3 +12,5 @@ Developed an interactive Power BI dashboard to analyse Blinkit's grocery sales p
 
 **Objective:** To identify sales trends, compare outlet performance, and support data-driven business decisions.
 
+<img width="1292" height="721" alt="Blinkit_Dashboard" src="https://github.com/user-attachments/assets/45ea9654-bf24-4155-a591-155ae80d5b71" />
+
