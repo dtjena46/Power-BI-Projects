@@ -1,0 +1,7 @@
+State_ID,State_Name,Region,Population_Covered,HDI_Index,Poverty_Rate_Pct
+ST01,Odisha,East,842315,0.61,29.4
+ST02,Jharkhand,East,673204,0.58,36.2
+ST03,Chhattisgarh,Central,1245890,0.6,37.8
+ST04,Bihar,East,1892457,0.57,41.3
+ST05,West Bengal,East,1567230,0.65,21.6
+ST06,Madhya Pradesh,Central,1103678,0.6,31.5

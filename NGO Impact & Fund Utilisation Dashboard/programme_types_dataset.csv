@@ -1,0 +1,13 @@
+Programme_Type_ID,Programme_Name,Category,Target_SDG,Cost_Per_Beneficiary_Benchmark_INR
+PT01,Girls Education Initiative,Education,SDG 4,1200
+PT02,Rural Health Camp,Healthcare,SDG 3,850
+PT03,Self Help Group Formation,Livelihood,SDG 1,600
+PT04,Vocational Training,Livelihood,SDG 8,2200
+PT05,Child Nutrition Programme,Healthcare,SDG 2,950
+PT06,Clean Water Access,Environment,SDG 6,3200
+PT07,Digital Literacy,Education,SDG 4,1500
+PT08,Microfinance Linkage,Livelihood,SDG 1,700
+PT09,Maternal Health Support,Healthcare,SDG 5,1100
+PT10,Farmer Training,Livelihood,SDG 2,1800
+PT11,Legal Aid Camp,Legal,SDG 16,400
+PT12,Environmental Awareness,Environment,SDG 13,300
